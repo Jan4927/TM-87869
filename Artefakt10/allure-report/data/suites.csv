@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Apr 18 20:20:56 CEST 2026","Sat Apr 18 20:20:56 CEST 2026","6","","test_103_attachments","TestVisualEvidence","","","Test ze zrzutem ekranu (Symulacja)",""
+"passed","Sat Apr 18 20:20:55 CEST 2026","Sat Apr 18 20:20:56 CEST 2026","829","","Blok 10: Raportowanie i Automatyzacja","TestAllureSetup","","","Weryfikacja Mostu Hybrydowego","Sprawdza, czy skrypt widzi API oraz Dockerowe Appium (port 4723)."
+"failed","Sat Apr 18 20:20:56 CEST 2026","Sat Apr 18 20:20:56 CEST 2026","9","","Blok 10: Raportowanie i Automatyzacja","TestAllureSetup","","","Test Przykładowego Błędu",""
+"passed","Sat Apr 18 20:20:56 CEST 2026","Sat Apr 18 20:20:56 CEST 2026","1","","test_102_meta_reporting","TestCourseFlow","","","Błąd: Brak uprawnień do lekcji premium",""
+"passed","Sat Apr 18 20:20:56 CEST 2026","Sat Apr 18 20:20:56 CEST 2026","1","","test_103_attachments","TestVisualEvidence","","","Załączanie pliku tekstowego (Logi)",""
+"passed","Sat Apr 18 20:20:56 CEST 2026","Sat Apr 18 20:20:56 CEST 2026","1","","test_102_meta_reporting","TestCourseFlow","","","Weryfikacja ładowania lekcji w Bloku 10",""
